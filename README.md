@@ -16,5 +16,17 @@ Fixed (type): rent, mobility, insurance, taxes, other_fixed
 Variable (type): groceries, utilities, medical care, education, maintenance, entertainament,
 eating out, other_variable
 
+## Input files:
+
++ income.csv
+
++ expenses.csv
+
+## Output files:
+
++ income_bal.xlsx
+
++ expenses_bal.xlsx
+
 
 Obs: I made this based on my personal needs and as a simple project to practice python.
